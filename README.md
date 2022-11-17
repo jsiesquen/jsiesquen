@@ -5,7 +5,7 @@
 
 -  **Learning :** Senior Development :zap: | Cloud Development :cloud: | Open-Source :fire:	
 -  **Languages :** Python, PHP, Node, JavaScript
--  **Hobbies :** Learning with Articles, Github account Improve,  Music :headphones:
+-  **Hobbies :** Auto Learning, Spacial & Tech articles, Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organisation :** Proebox
 
